@@ -1,0 +1,242 @@
+FEATURE,Feature
+NOFEATURES,noFeatures
+PARKING,Parking
+TOILETTES,Toilettes
+TABLES DE PIQUE-NIQUE,Tables de pique-nique
+AIRE DE PIQUE-NIQUE,Aire de pique-nique
+POINT D'EAU POTABLE,Point d'eau potable
+,
+PLAGE,Plage
+COMMERCES 1ERE NECESSITE,Commerces 1ère nécessité
+VENTE DE PLATS A EMPORTER,Vente de plats à emporter
+RESTAURANT,Restaurant
+LOCATION MATERIEL DE SPORT,Location matériel de sport
+BAR,Bar
+BAIGNADE,Baignade
+TERRASSE,Terrasse
+JARDIN,Jardin
+AIRE DE JEUX _ TERRAIN DE JEUX EXTERIEURS,Aire de jeux _ terrain de jeux extérieurs
+SALON DE JARDIN,Salon de jardin
+CHEMINEE _ POELE,Cheminée _ poële
+TELEVISION,Télévision
+BARBECUE,Barbecue
+CHAISE BEBE,Chaise bébé
+CHAUFFAGE,Chauffage
+LAVE VAISSELLE,Lave vaisselle
+LOCATION DE LINGE,Location de linge
+EMPLACEMENT SEMI-OMBRAGE,Emplacement semi-ombragé
+PISCINE PLEIN AIR,Piscine plein air
+MATERIEL BEBE _ ENFANT,Matériel bébé _ enfant
+LAVE LINGE PRIVATIF,Lave linge privatif
+WIFI _ ACCES INTERNET,Wifi _ accès internet
+CUISINE COLLECTIVE,Cuisine collective
+LOCAL VELO,Local vélo
+LAVERIE _ BLANCHISSERIE,laverie _ blanchisserie
+BRANCHEMENTS D'EAU,Branchements d'eau
+BRANCHEMENTS ELECTRIQUES,Branchements électriques
+INSTALLATIONS POUR HANDICAPES,Installations pour handicapés
+SALLE D'EAU PRIVEE,Salle d'eau privée
+SALLE DE PROJECTION,Salle de projection
+BORNE DE SERVICE CAMPING CAR,Borne de service camping car
+VIDANGE TOILETTES CHIMIQUES,Vidange toilettes chimiques
+PARKING AUTOCAR,Parking autocar
+MENAGE EN FIN DE SEJOUR,Ménage en fin de séjour
+SALLE DE BAIN PRIVEE,Salle de bain privée
+BOUTIQUE,Boutique
+CUISINE - COIN CUISINE,Cuisine - coin cuisine
+SPA _ BAIN A REMOUS _ JACUZZI,Spa _ bain à remous _ jacuzzi
+LIVRAISONS A DOMICILE,Livraisons à domicile
+ALIMENTATION - POINT ALIMENTATION,Alimentation - point alimentation
+ASCENSEUR,Ascenseur
+SALLE DE REUNION,Salle de réunion
+COUR,Cour
+SECHE CHEVEUX,Sèche cheveux
+DRAPS ET LINGES,Draps et linges
+PARKING PRIVE,Parking privé
+PLAIN PIED,Plain pied
+ENTREE INDEPENDANTE,Entrée indépendante
+CABLE - SATELLITE,Câble - satellite
+SAUNA,Sauna
+SALLE DE SEMINAIRE,Salle de séminaire
+PARC,Parc
+CLIMATISATION,Climatisation
+PISCINE,Piscine
+EMPLACEMENT OMBRAGE,Emplacement ombragé
+GARAGE,Garage
+EMPLACEMENT,Emplacement
+DOUCHE,Douche
+ESPACE JEUX,Espace jeux
+SECHE LINGE PRIVATIF,Sèche linge privatif
+LOCAL MATERIEL FERME,Local matériel fermé
+TERRAIN CLOS,Terrain clos
+TERRAIN FERME LA NUIT,Terrain fermé la nuit
+SALLE OU TERRAIN DE SPORT,Salle ou terrain de sport
+MASSAGES,Massages
+CHAMBRE,Chambre
+PATAUGEOIRE _ PISCINE ENFANTS,Pataugeoire _ Piscine enfants
+EMPLACEMENT CAMPING CAR,Emplacement camping car
+VENTE A LA PROPRIETE,Vente à la propriété
+TRAITEUR,Traiteur
+HAMMAM,Hammam
+LOCATION DE VELO,Location de vélo
+AIRE DE DEPOSE RAPIDE,Aire de dépose rapide
+VESTIAIRE,Vestiaire
+LOCATION MOBIL HOME,Location mobil home
+HABITAT LEGER DE LOISIRS,Habitat léger de loisirs
+SANITAIRES CHAUFFES,Sanitaires chauffés
+CLUB ENFANTS,Club enfants
+ROOM SERVICE,Room service
+LOCATION DE CARAVANE,Location de caravane
+SALLE DE RECEPTION,Salle de réception
+VOITURIER,Voiturier
+SECHE LINGE COLLECTIF,Sèche linge collectif
+SALLE D'EAU COMMUNE,Salle d'eau commune
+PLAGE SURVEILLEE,Plage surveillée
+MEDIATHEQUE,Médiathèque
+LIT SIMPLE,Lit simple
+ANIMATIONS,Animations
+SALLE HORS-SAC,Salle hors-sac
+AUDITORIUM,Auditorium
+BIBLIOTHEQUE,Bibliothèque
+NAVETTE AEROPORT OU GARE,Navette aéroport ou gare
+SALLE DE BAIN COMMUNE,Salle de bain commune
+ACCUEIL,Accueil
+AUDIOGUIDE,Audioguide
+CLUB ADOLESCENTS,Club adolescents
+COIN SALON,Coin salon
+INFORMATIONS TOURISTIQUES,Informations touristiques
+BOULODROME _ TERRAIN DE PETANQUE,Boulodrome _ terrain de pétanque
+CONTAINER,Container
+ESPACE FUMEUR,Espace fumeur
+VIDANGE DES EAUX USEES,Vidange des eaux usées
+PISCINE PRIVEE,Piscine privée
+GARAGE OU PARKING CLOS,Garage ou parking clos
+PISCINE PARTAGEE,Piscine partagée
+TERRASSE CHAUFFEE,Terrasse chauffée
+TERRASSE FERMEE,Terrasse fermée
+ESPACE DEGUSTATION,Espace dégustation
+PARKING A VELO,Parking à vélo
+GARAGE A VELO,Garage à vélo
+PISCINE CHAUFFEE,Piscine chauffée
+BOX,Box
+SALLE A MANGER PRIVEE,Salle à manger privée
+DORTOIR,Dortoir
+SALLE DE REUNION EQUIPEE,Salle de réunion équipée
+BORNE DE CHARGE VEHICULE ELECTRIQUE,Borne de charge véhicule électrique
+TOILETTES PUBLIQUES,Toilettes publiques
+MICRO-ONDES,Micro-ondes
+NAVETTE VERS ACTIVITES ANNEXES,Navette vers activités annexes
+CLUB DE PLAGE,Club de plage
+COURT DE TENNIS,Court de tennis
+PISCINE COUVERTE,Piscine couverte
+PIANO BAR,Piano bar
+PARKING COUVERT,Parking couvert
+REFRIGERATEUR,Réfrigérateur
+CONGELATEUR,Congélateur
+LECTEUR DVD,Lecteur dvd
+LIT BEBE,Lit bébé
+DOUBLE VITRAGE,Double vitrage
+RESERVATION DE PRESTATIONS ANNEXES,Réservation de prestations annexes
+BAIGNOIRE,Baignoire
+DISTRIBUTEUR AUTOMATIQUE DE BILLETS,Distributeur automatique de billets
+ETAGE,Etage
+PARASOL,Parasol
+SERVICE DE DEPANNAGE VELO,Service de dépannage vélo
+SALLE COMMUNE,Salle commune
+MENAGE QUOTIDIEN,Ménage quotidien
+CAFETIERE,Cafetière
+TABLE A LANGER,Table à langer
+TOILETTES SEPAREES,Toilettes séparées
+JARDIN INDEPENDANT,Jardin indépendant
+FER ET PLANCHE A REPASSER,Fer et planche à repasser
+TELEPHONE,Téléphone
+BILLARD,Billard
+BABY CLUB,Baby club
+ASPIRATEUR,Aspirateur
+JARDIN COMMUN,Jardin commun
+SURVEILLANCE DE NUIT,Surveillance de nuit
+MINI-GOLF,Mini-golf
+SALLE OU COIN TELEVISION,Salle ou coin télévision
+SALLE DE JEUX,Salle de jeux
+DEPOT DE GAZ,Dépôt de gaz
+DEPOT DE GLACE,Dépôt de glace
+BASE DE CANOE KAYAK,Base de canoë kayak
+LOCATION BUNGALOW,Location bungalow
+GARAGE MORT,Garage mort
+SEMINAIRE,Séminaire
+LAVE LINGE COLLECTIF,Lave linge collectif
+LOCATION BUNGATOILE,Location bungatoile
+SOLARIUM,Solarium
+RESERVATIONS DE PRESTATIONS EXTERIEURES,Réservations de prestations extérieures
+COFFRE,Coffre
+TERRAIN DE VOLLEY-BALL,Terrain de volley-ball
+TABLE DE PING-PONG,Table de ping-pong
+MESSAGES TELEPHONIQUES,Messages téléphoniques
+POINT COURRIER,Point courrier
+PRET DE MATERIEL DE SPORT,Prêt de matériel de sport
+PANIER PIQUE NIQUE,Panier pique nique
+LOCATION DE TENTES,Location de tentes
+DISCOTHEQUE,Discothèque
+RESERVATIONS DE DERNIERE MINUTE,Réservations de dernière minute
+GARDERIE _ NURSERIE,Garderie _ nurserie
+GARAGE PRIVE,Garage privé
+SELF SERVICE,Self service
+PRET DE VELO,Prêt de vélo
+SALLE DE REPASSAGE,Salle de repassage
+VENTE DE PRODUITS TOURISTIQUES,Vente de produits touristiques
+TRANSPORT DE BAGAGES,Transport de bagages
+CASINO,Casino
+INFORMATIONS GENERALES,Informations générales
+EXPOSITIONS,Expositions
+FOUR,Four
+TERRASSE BALCON,Terrasse balcon
+RESTAURATION SUR PLACE,Restauration sur place
+DRIVE,Drive
+BUVETTE,Buvette
+LOCATION DE CANOE _ KAYAK,Location de canoë _ kayak
+SANITAIRES,Sanitaires
+SALLE DE CONFERENCE,Salle de conférence
+CANAL PLUS,Canal plus
+TOBOGGAN,Toboggan
+LIBRAIRIE,Librairie
+LAVABO,Lavabo
+CLICK AND COLLECT ,Click and Collect 
+RESERVATION,Réservation
+BASE DE LOISIRS,Base de loisirs
+LAVOIRS EAU CHAUDE,Lavoirs eau chaude
+LOCATION DE VELO ELECTRIQUE,Location de vélo électrique
+ORGANISATION DE CIRCUITS TOURISTIQUES,Organisation de circuits touristiques
+DEPOT DE PAIN,Dépôt de pain
+EMPLACEMENTS LOUES A L'ANNEE,Emplacements loués à l'année
+ABRI COUVERT,Abri couvert
+PIECE,Pièce
+ACCUEIL NUIT,Accueil nuit
+PARCOURS DE GOLF,Parcours de golf
+SENTIERS BALISES,Sentiers balisés
+POINT TELEPHONE,Point téléphone
+TERRASSE PRIVATIVE,Terrasse privative
+HALTE NAUTIQUE,Halte nautique
+LOCATION DE BARQUE,Location de barque
+RESERVATION AERIENNES,Réservation aériennes
+BALANCOIRE,Balançoire
+CINEMA,Cinéma
+MINI-BAR,Mini-bar
+BABY SITTER,Baby sitter
+TERRAIN DE SQUASH,Terrain de squash
+RADIO,Radio
+AERODROME,Aérodrome
+COUVERT,Couvert
+PARKING A PROXIMITE,Parking à proximité
+LIVRAISON DE REPAS,Livraison de repas
+TERRAIN DE BASKET-BALL,Terrain de basket-ball
+TERRAIN DE FOOTBALL,Terrain de football
+TOBOGGAN AQUATIQUE,Toboggan aquatique
+AIRE DE SERVICE CAMPING CAR,Aire de service camping car
+SNACK BAR,Snack bar
+JARDIN DES NEIGES,Jardin des neiges
+HALL D'EXPOSITION,Hall d'exposition
+TERRAIN DE BEACH VOLLEY,Terrain de beach volley
+LOCAL SKI,Local ski
+CANIDOUCHE,Canidouche
+CENTRE EQUESTRE,Centre équestre
+TERRAIN DE BADMINTON,Terrain de badminton
